@@ -67,6 +67,6 @@ public class SwaggerConfig
 
 	private static ApiInfo apiInfo()
 	{
-		return new ApiInfo("WhoDrivesNext API", "WhoDrivesNext API.", "1.0.0", "", "it.aber.abr.entw@md.de", null, null);
+		return new ApiInfo("WhoDrivesNext API", "WhoDrivesNext API.", "1.0.0", "", "", null, null);
 	}
 }
